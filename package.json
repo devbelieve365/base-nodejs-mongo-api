@@ -24,7 +24,7 @@
     "fcm-node": "^1.2.1",
     "jade": "~1.11.0",
     "jsonwebtoken": "^8.4.0",
-    "mongoose": "^4.13.5",
+    "mongoose": "^5.7.5",
     "mongoose-auto-increment": "^5.0.1",
     "morgan": "~1.9.0",
     "serve-favicon": "~2.4.5",
